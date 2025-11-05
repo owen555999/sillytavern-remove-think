@@ -1,9 +1,0 @@
-{
-    "manifest_version": 1,
-    "id": "remove-think-from-history",
-    "name": "Remove Think From History",
-    "version": "1.0.0",
-    "author": "Nattanun",
-    "description": "ลบส่วน <think>...</think> ออกจากข้อความก่อนบันทึกใน context เพื่อไม่ให้กิน token",
-    "entry": "remove_think_from_history.js"
-}
